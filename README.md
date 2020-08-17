@@ -12,7 +12,7 @@
 
 ## 🏫 Latest courses
 - [Cybr](https://cybr.com/courses/)
-- [Udemy](https://www.udemy.com/user/christophe-limpalair/)
+- [Udemy](https://www.udemy.com/user/christophe-limpalair)
 
 ## 📽 Latest YouTube videos
 - [Cybr Channel](https://www.youtube.com/channel/UCHniAWK7wYu9EYbz64cOL_A)
