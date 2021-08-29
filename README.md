@@ -1,7 +1,7 @@
 ### Hi there, I'm Christophe 👋
 
 - 🔭 I’m currently working on Cybr
-- 🌱 I’m currently learning Premiere Pro, After Effects
+- 🌱 I’m currently learning Vue.js, Tailwind CSS, After Effects
 - 👯 I’m looking to collaborate on Cybersecurity content creation
 - 💬 Ask me about getting started in Cybersecurity
 
