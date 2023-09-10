@@ -1,9 +1,9 @@
 ### Hi there, I'm Christophe 👋
 
-- 🔭 I’m currently working on Cybr
-- 🌱 I’m currently learning Vue.js, Tailwind CSS, After Effects
-- 👯 I’m looking to collaborate on Cybersecurity content creation
-- 💬 Ask me about getting started in Cybersecurity
+- 🔭 I’m currently working on Cybr.com
+- 🌱 I’m currently learning SvelteKit, Tailwind CSS, After Effects
+- 👯 I’m looking to collaborate on cloud security content creation
+- 💬 Ask me about getting started in cloud security!
 
 ## 📫 How to reach me 
 - [LinkedIn](https://www.linkedin.com/in/christophelimpalair/)
