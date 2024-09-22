@@ -1,7 +1,7 @@
 ### Hi there, I'm Christophe 👋
 
 - 🔭 I’m currently working on Cybr.com
-- 🌱 I’m currently learning SvelteKit, Tailwind CSS, After Effects
+- 🌱 I’m currently learning SvelteKit and creating AWS security training material
 - 👯 I’m looking to collaborate on cloud security content creation
 - 💬 Ask me about getting started in cloud security!
 
