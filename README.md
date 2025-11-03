@@ -1,8 +1,9 @@
 ### Hi there, I'm Christophe 👋
 
 - 🔭 I’m currently working on Cybr.com
-- 🌱 I’m currently learning SvelteKit and creating AWS security training material
-- 👯 I’m looking to collaborate on cloud security content creation
+- 🌱 I’m creating AWS security training material and Hands-On Labs
+- ❤️ I love working with PHP/Laravel (it's better than JS, come at me)
+- 👯 I’m looking to collaborate on cloud security tools & content creation
 - 💬 Ask me about getting started in cloud security!
 
 ## 📫 How to reach me 
@@ -12,10 +13,9 @@
 
 ## 🏫 Latest courses
 - [Cybr](https://cybr.com/courses/)
-- [Udemy](https://www.udemy.com/user/christophe-limpalair)
 
 ## 📽 Latest YouTube videos
 - [Cybr Channel](https://www.youtube.com/channel/UCHniAWK7wYu9EYbz64cOL_A)
 
-## ✍ Latest Blog Posts
+## ✍ Latest Articles
 - [Cybr blog](https://cybr.com/blog/)
